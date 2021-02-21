@@ -1,0 +1,28 @@
+{
+    "files.associations": {
+        "chrono": "cpp",
+        "system_error": "cpp",
+        "cstddef": "cpp",
+        "fstream": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp",
+        "sstream": "cpp",
+        "algorithm": "cpp",
+        "deque": "cpp",
+        "exception": "cpp",
+        "functional": "cpp",
+        "iterator": "cpp",
+        "list": "cpp",
+        "map": "cpp",
+        "memory": "cpp",
+        "new": "cpp",
+        "numeric": "cpp",
+        "queue": "cpp",
+        "set": "cpp",
+        "stack": "cpp",
+        "stdexcept": "cpp",
+        "string": "cpp",
+        "utility": "cpp",
+        "vector": "cpp"
+    }
+}
